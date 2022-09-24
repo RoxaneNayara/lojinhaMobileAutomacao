@@ -1,11 +1,8 @@
 package modulos.produto;
 
-import io.appium.java_client.AppiumDriver;
 import modulos.usuario.tela.LoginTela;
 import org.junit.jupiter.api.*;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
